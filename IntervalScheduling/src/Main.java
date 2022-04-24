@@ -10,7 +10,7 @@ public class Main {
         list.add(new Job(7, 10));
         list.add(new Job(4, 6));
         list.add(new Job(2, 5));
-        list.add(new Job(11, 5));
+        list.add(new Job(11, 12));
 
         Collections.sort(list);
 
@@ -26,6 +26,6 @@ public class Main {
             }
         }
 
-        System.out.println(A);
+        System.out.println(A); // A is an optimal solution
     }
 }
