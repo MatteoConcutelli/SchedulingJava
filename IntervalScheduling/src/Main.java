@@ -26,6 +26,6 @@ public class Main {
             }
         }
 
-        System.out.println(A); // A is an optimal solution
+        System.out.println(A); // A is an optimal solutio
     }
 }
